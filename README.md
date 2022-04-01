@@ -15,5 +15,7 @@
 
 I'm an attempt of webdev, sysadmin, pentester and many other things, and now i'm an attempt of binary analyst and exploiter.
 
-This will work? Idk
+This will work? Idk but you have to be happy.
+
+Regards!
 
