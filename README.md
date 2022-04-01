@@ -1,16 +1,19 @@
 ### Hi there 👋
+### Hi there 👋
+### Hi there 👋
+### Hi there 👋
+### Hi there 👋
+### Hi there 👋
+### Hi there 👋
+### Hi there 👋
+### Hi there 👋
+### Hi there 👋
+### Hi there 👋
+### Hi there 👋
+### Hi there 👋
+### Hi there 👋
 
-<!--
-**defaultuser001/defaultuser001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an attempt of webdev, sysadmin, pentester and many other things, and now i'm an attempt of binary analyst and exploiter.
 
-Here are some ideas to get you started:
+This will work? Idk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
